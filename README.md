@@ -23,5 +23,4 @@ and the rod movement.
 - `F1` key: Pressing this key toggle the full-screen mode of the game window. 
 When the game is in full-screen mode, pressing `F1` again will revert it back to 
 the windowed mode
-هىؤمعيثi
-هىؤمعيث
+
