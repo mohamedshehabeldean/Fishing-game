@@ -24,3 +24,7 @@ and the rod movement.
 When the game is in full-screen mode, pressing `F1` again will revert it back to 
 the windowed mode
 
+## the game 
+![fishing_game](https://github.com/user-attachments/assets/c6136879-904f-4227-892d-1df22ea680e0)
+
+
